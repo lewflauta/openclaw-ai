@@ -9,13 +9,13 @@ linkedin posts:
 - [usefulness of openclaw coding](https://www.linkedin.com/posts/flauta_the-fastest-apps-i-built-started-as-vibe-coded-activity-7438316209101545472-qyU3)
 - [the day my openclaw was down](https://www.linkedin.com/posts/lewflauta_hitting-the-token-limit-on-your-openclaw-share-7438748989367226368-R6fN)
 
-personality:
+# Personality:
 virtual assistant, a cheerleader for my goals, but not always overly agreeable.
 
 modifications:
 - smarter context management
 - token optimization
-- smart llm routing (premium llms for premium tasks)
+- smart llm routing/orchestration (premium llms for premium tasks)
 
 skills I've added so far
   - daily dashboard
@@ -32,4 +32,4 @@ future plans:
 - fully local openclaw agent that can run 24/7
 - implement smart advanced smart routing
 
-Initially I went through the processes of containerizing the installation through docker. This is probably the safest way, but it requires so much intervention, my personal opinion is that for personal use by a tech professional it might not be worth it. I can see that locking it down would be important if you are creating an openclaw setup for someone else who might not be so tech savvy.
+Initially I went through the processes of containerizing the installation through docker. This is probably the safest way, but it requires so much intervention, my personal opinion is that for personal use by a tech professional it might not be worth it, you might as well just have a vanilla llm agent from one of the foundational llm providers. I can see that locking openclaw down would be important if you are creating an openclaw setup for someone else who might not be so tech savvy.
